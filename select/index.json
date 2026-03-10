@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "アイ",
+  "base_artist": "秦 基博",
+  "createdAt": "2026-03-10T20:42:28.125151Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイ・ウォーク・ザ・ライン",
+      "artist": "ジョニー・キャッシュ",
+      "has_synced": false,
+      "path": "select/01_アイ・ウォーク・ザ・ライン_ジョニー・キャッシュ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヒア・アイ・アム",
+      "artist": "Al Green",
+      "has_synced": false,
+      "path": "select/02_ヒア・アイ・アム_Al_Green.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "オール・アイ・ニード",
+      "artist": "エール",
+      "has_synced": true,
+      "path": "select/03_オール・アイ・ニード_エール.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "トゥ・ホエア・アイ・ウィープ",
+      "artist": "Therion",
+      "has_synced": false,
+      "path": "select/04_トゥ・ホエア・アイ・ウィープ_Therion.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アイ・ビリーヴ",
+      "artist": "Hammerfall",
+      "has_synced": false,
+      "path": "select/05_アイ・ビリーヴ_Hammerfall.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アイ・ウォナ・ノウ (ライヴ)",
+      "artist": "Foreigner",
+      "has_synced": true,
+      "path": "select/06_アイ・ウォナ・ノウ_(ライヴ)_Foreigner.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ファーガリシャスFEAT.ウィル.アイ.アム",
+      "artist": "Fergie",
+      "has_synced": true,
+      "path": "select/07_ファーガリシャスFEAT.ウィル.アイ.アム_Fergie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ヒア・アイ・ゴー・アゲイン",
+      "artist": "Whitesnake",
+      "has_synced": true,
+      "path": "select/08_ヒア・アイ・ゴー・アゲイン_Whitesnake.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アイ・ニード・ユー(シャイン・ア・ライト)",
+      "artist": "Whitesnake",
+      "has_synced": false,
+      "path": "select/09_アイ・ニード・ユー(シャイン・ア・ライト)_Whitesnake.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アイ・ウィル・サヴァイブ",
+      "artist": "Gloria Gaynor",
+      "has_synced": false,
+      "path": "select/10_アイ・ウィル・サヴァイブ_Gloria_Gaynor.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アイ・コール・ユア・ネイム",
+      "artist": "ママス&パパス",
+      "has_synced": false,
+      "path": "select/11_アイ・コール・ユア・ネイム_ママス&パパス.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "アイ -'ation-",
+      "artist": "ユナイト",
+      "has_synced": false,
+      "path": "select/12_アイ_-'ation-_ユナイト.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "アイ・キャン・ゲット・ネクスト・トゥー・ユー",
+      "artist": "Al Green",
+      "has_synced": false,
+      "path": "select/13_アイ・キャン・ゲット・ネクスト・トゥー・ユー_Al_Green.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "アイ・ウッド・ファインド・ア・ウェイ",
+      "artist": "ビッグ・マウンテン",
+      "has_synced": true,
+      "path": "select/14_アイ・ウッド・ファインド・ア・ウェイ_ビッグ・マウンテン.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ブラッド・アイ・スピル",
+      "artist": "All That Remains",
+      "has_synced": false,
+      "path": "select/15_ブラッド・アイ・スピル_All_That_Remains.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "アイ・メント・ホワット・アイ・セッド",
+      "artist": "All That Remains",
+      "has_synced": false,
+      "path": "select/16_アイ・メント・ホワット・アイ・セッド_All_That_Remains.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "アイ・ウィル・メイク・イット・アップ・トゥ・ユー",
+      "artist": "Escape the Fate",
+      "has_synced": true,
+      "path": "select/17_アイ・ウィル・メイク・イット・アップ・トゥ・ユー_Escape_the_Fate.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "アイ・ヒア・ユー・ノッキング",
+      "artist": "Smiley Lewis",
+      "has_synced": false,
+      "path": "select/18_アイ・ヒア・ユー・ノッキング_Smiley_Lewis.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "ホワット・アム・アイ・ゴナ・ドゥ・ウィズ・マイセルフ",
+      "artist": "Al Green",
+      "has_synced": false,
+      "path": "select/19_ホワット・アム・アイ・ゴナ・ドゥ・ウィズ・マイセルフ_Al_Green.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイ",
+      "artist": "秦 基博",
+      "has_synced": false,
+      "path": "select/pl_01_アイ_秦_基博.txt"
+    }
+  ]
+}
